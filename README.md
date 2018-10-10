@@ -1,2 +1,2 @@
-# tugas1
+# TUGAS PERTAMA LARAVEL
 Belajar laravel basic sampai expert
